@@ -1,0 +1,18 @@
+.*
+!.gitignore
+!.gitkeep
+!.editorconfig
+*.log
+*.iml
+/dist/
+/node_modules/
+/coverage/
+/compiled
+
+
+# Typings #
+/typings/
+
+# Symlinked files #
+/src/app/home/models
+/src/app/home/services
